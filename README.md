@@ -2,9 +2,8 @@
 
 I write robot code and build tools for robotics teams.
 
-- 🤖 Programmer for VEX V5RC team **293Y** (C++, PROS, LemLib)
-- 🏎️ Electronics and firmware for Formula SAE (tire temperature sensing)
-- 🛠️ Currently building [VEX Scout](https://vex-scout-opal.vercel.app), an offline-first scouting app
+- Programmer for VEX U VTCRO (C++, PROS, LemLib)
+- Currently building [VEX Scout](https://vex-scout-opal.vercel.app), an offline-first scouting app
 
 ## Projects
 
